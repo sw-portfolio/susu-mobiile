@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5499817a-721d-422b-8100-ffef260a7f72" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/dist/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/images/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/images/hoek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/images/joi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/images/validation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/mongodb-cert.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/cross-platform-training.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/kb-logo-stagger-400x88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/my-training-page-logo-260x35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/my-training-page-logo-300x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/my-training-page-logo-600x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/my-training-page-logo-633x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/online-employee-training-ad-600x400.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/training-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/training-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/img/training-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/fonts/texb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_downloads/ELDocs.tmbundle.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_images/appflowchart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_images/smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/ci-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/images/ci-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/cache/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/doctypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/foreign_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/memcached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/mimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/smileys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/config/user_agents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/controllers/Welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/controllers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/controllers/topic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/hooks/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/models/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/models/topic_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/third_party/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/error_exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/cli/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/error_exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/get.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/topic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/topic_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../application/views/welcome_message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../contributing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/login_ok.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/models.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/new_history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/views_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/views_mobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/mime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/sshpk-conv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/sshpk-sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/sshpk-verify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/.bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/dist/ajv.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/ajv.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/_limit.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/_limitItems.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/_limitLength.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/_limitProperties.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/allOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/anyOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/coerce.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/custom.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/defaults.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/definitions.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/dependencies.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/enum.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/errors.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/format.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/items.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/missing.def" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/multipleOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/not.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/oneOf.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/pattern.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/properties.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/ref.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/required.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/uniqueItems.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/v5/_formatLimit.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/v5/constant.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/v5/patternRequired.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/v5/switch.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dot/validate.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/dotjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/refs/json-schema-draft-04.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/lib/refs/json-schema-v5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/scripts/.eslintrc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/scripts/info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/scripts/prepare-tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ajv/scripts/travis-gh-pages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/array-flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/array-flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/array-flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asn1/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asn1/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asn1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asn1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asn1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/assert-plus/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/assert-plus/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/assert-plus/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/assert-plus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/async/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/async/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asynckit/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asynckit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/asynckit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws-sign2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws-sign2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws-sign2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/.tern-port" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/aws4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/dist/base64url.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/dist/pad-string.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/typings/globals/node/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/typings/globals/node/typings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/base64url/typings/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/basic-auth/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/basic-auth/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/basic-auth/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/basic-auth/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-nodejs/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-nodejs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-nodejs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-nodejs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-nodejs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-pbkdf/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bcrypt-pbkdf/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bluebird/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bluebird/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bluebird/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bluebird/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/body-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/boom/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/browser_build/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bson/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-equal-constant-time/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-equal-constant-time/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-equal-constant-time/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-equal-constant-time/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-equal-constant-time/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-shims/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-shims/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/buffer-shims/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-disposition/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-disposition/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-disposition/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-disposition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-type/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-type/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-type/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/content-type/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/core-util-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/destroy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ecdsa-sig-formatter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ecdsa-sig-formatter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ecdsa-sig-formatter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/encodeurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/encodeurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/encodeurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/encodeurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/es6-promise/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/es6-promise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/es6-promise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/es6-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/escape-html/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hoek/test/modules/ignore.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hooks-fixed/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hooks-fixed/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hooks-fixed/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/hooks-fixed/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/lib/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/isemail/test/tests.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/API.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/joi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.history/CHANGELOG_20170213194220.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.history/CHANGELOG_20170213194403.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.history/CHANGELOG_20170213194453.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.history/CHANGELOG_20170213194602.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.history/CHANGELOG_20170213194730.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/bin/changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/invalid_pub.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/priv.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/pub.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/rsa-private.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/rsa-public-key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jsonwebtoken/test/rsa-public.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jwa/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jwa/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jwa/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jwa/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jws/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jws/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jws/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jws/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/jws/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/kareem/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash.once/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash.once/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash.once/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/lodash/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/merge-descriptors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/merge-descriptors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/methods/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/methods/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mime/types.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/moment/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/moment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/moment/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/moment/moment.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/moment/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/TESTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/THIRD-PARTY-NOTICES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/simple_2_document_limit_toArray.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb-core/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/THIRD-PARTY-NOTICES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/conf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongodb/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.eslintrc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/aggregate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/express/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/express/connection-sharing/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/geospatial/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/lean/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/mapreduce/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/promises/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/querybuilder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/replicasets/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/examples/schema/storing-schemas-as-json/schema.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/lib/drivers/SPEC.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mongoose/release-items.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/morgan/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/morgan/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/morgan/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/morgan/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/bench.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpath/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mpromise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/ms/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/ms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/node_modules/sliced/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/mquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ms/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/muri/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-headers/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-headers/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-headers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/on-headers/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/path-to-regexp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/process-nextick-args/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/process-nextick-args/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/process-nextick-args/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/process-nextick-args/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/qs/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/raw-body/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/doc/stream.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/regexp-clone/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/require_optional/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/require_optional/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/require_optional/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/require_optional/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/require_optional/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/resolve-from/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/resolve-from/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/resolve-from/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/safe-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/setprototypeof/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/setprototypeof/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/setprototypeof/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/sliced/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/sliced/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/sliced/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/sliced/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/statuses/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/statuses/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/statuses/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/statuses/codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/statuses/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/API.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/topo/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/unpipe/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/unpipe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/unpipe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/unpipe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/util-deprecate/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/util-deprecate/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/util-deprecate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/util-deprecate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../node_modules/xtend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/management/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/management/management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/management/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/activation/activate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/activation/resend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/logout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/reset/newpassword.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/reset/password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/reset/username.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/app/views/pages/users/social/social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/font-awesome-4.7.0/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/js/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/js/angular-route.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/assets/js/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../readme.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/CodeIgniter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/Utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/compat/hash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/compat/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/compat/mbstring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/compat/password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/compat/standard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_query_builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/DB_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/cubrid/cubrid_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/cubrid/cubrid_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/cubrid/cubrid_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/cubrid/cubrid_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/cubrid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/ibase/ibase_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/ibase/ibase_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/ibase/ibase_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/ibase/ibase_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/ibase/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mssql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mssql/mssql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mssql/mssql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mssql/mssql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mssql/mssql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysql/mysql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysql/mysql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysql/mysql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysql/mysql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysqli/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysqli/mysqli_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysqli/mysqli_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysqli/mysqli_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/mysqli/mysqli_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/oci8/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/oci8/oci8_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/oci8/oci8_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/oci8/oci8_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/oci8/oci8_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/odbc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/odbc/odbc_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/odbc/odbc_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/odbc/odbc_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/odbc/odbc_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/pdo_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/pdo_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/pdo_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/pdo_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_4d_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_4d_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_informix_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_informix_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_oci_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_oci_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/postgre/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/postgre/postgre_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/postgre/postgre_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/postgre/postgre_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/postgre/postgre_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite/sqlite_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite/sqlite_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite/sqlite_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite/sqlite_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite3/sqlite3_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite3/sqlite3_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite3/sqlite3_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlite3/sqlite3_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlsrv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlsrv/sqlsrv_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlsrv/sqlsrv_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlsrv/sqlsrv_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/drivers/sqlsrv/sqlsrv_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/fonts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/array_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/captcha_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/cookie_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/date_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/directory_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/download_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/email_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/file_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/form_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/html_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/inflector_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/language_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/number_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/path_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/security_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/smiley_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/string_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/text_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/typography_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/url_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/helpers/xml_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/calendar_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/date_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/db_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/email_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/form_validation_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/ftp_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/migration_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/number_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/pagination_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/profiler_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/unit_test_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/english/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_dummy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_memcached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_redis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/Cache_wincache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Cart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Encrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Encryption.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Form_validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Ftp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Image_lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Javascript/Jquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/SessionHandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/Session_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/drivers/Session_database_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/drivers/Session_files_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/drivers/Session_memcached_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/drivers/Session_redis_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Session/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Trackback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Typography.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Unit_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/User_agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Xmlrpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Xmlrpcs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/Zip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../system/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/DCO.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/css/badge_only.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/css/citheme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/js/oldtheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/js/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/contributing/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/call_function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/configuration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/connecting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/db_driver_reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/forge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/metadata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/queries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/query_builder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/transactions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/database/utilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/alternative_php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/ancillary_classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/autoloader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/cli.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/common_functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/compatibility_functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/controllers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/core_classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/creating_drivers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/creating_libraries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/drivers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/environments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/hooks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/libraries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/managing_apps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/profiling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/requirements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/reserved_names.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/routing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/styleguide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/urls.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/general/welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/array_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/captcha_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/cookie_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/date_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/directory_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/download_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/email_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/file_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/form_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/html_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/inflector_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/language_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/number_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/path_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/security_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/smiley_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/string_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/text_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/typography_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/url_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/helpers/xml_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/downloads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/troubleshooting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_120.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_130.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_131.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_132.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_133.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_140.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_141.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_150.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_152.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_153.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_154.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_160.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_161.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_162.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_163.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_170.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_171.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_172.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_200.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_201.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_202.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_203.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_210.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_211.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_212.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_213.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_214.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_220.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_221.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_222.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_223.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_300.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_301.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_302.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_303.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_304.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_305.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_306.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_310.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_311.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_312.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_313.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_314.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_315.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrade_b11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/installation/upgrading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/benchmark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/encrypt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/encryption.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/file_uploading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/form_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/ftp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/image_lib.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/language.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/loader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/migration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/output.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/parser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/sessions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/trackback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/unit_testing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/uri.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/user_agent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/xmlrpc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/libraries/zip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/appflow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/at_a_glance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/getting_started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/goals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/overview/mvc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/tutorial/conclusion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/tutorial/create_news_items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/tutorial/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/tutorial/news_section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user_guide/tutorial/static_pages.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1934" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5499817a-721d-422b-8100-ffef260a7f72" name="Default" comment="" />
+      <created>1526456828936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526456828936</updated>
+      <workItem from="1526456830507" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-10" y="0" width="1934" height="1030" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61881787" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
